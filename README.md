@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rudhy.pereira@gmail.com**
 
-- ⚡ Fun fact **Fully transitioning my career**
+- ⚡ Fun fact: **one year to completely transition my career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
