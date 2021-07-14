@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
-- 🔭 I’m currently working on **Final project of Module 01 from BLUE edtech program**
+- 🔭 I’m currently working on **my second programming module from BLUE EdTech emphasis on Front-End stack**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript (ECMAScrip 6+), bash script,**
+- 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), bash script,**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python, HTML5, CSS3**
 
 - 📫 How to reach me **rudhy.pereira@gmail.com**
 
