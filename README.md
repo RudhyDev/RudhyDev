@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
-- 🔭 I’m currently working on **my second programming module from BLUE EdTech emphasis on Front-End stack**
+- 🔭 I’m currently working on **my second programming module from BLUE EdTech emphasis on Front and Back-End**
 
 - 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), bash script,**
 
