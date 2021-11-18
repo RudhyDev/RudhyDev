@@ -7,7 +7,7 @@
 
 - 🔭 **I just finished my second BLUE EdTech Module and now startind my Full Stack specialization with JavaScript**
 
-- 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), bash script,**
+- 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), NodeJS, ReactJS, MongoDB, PostgreSQL, NestJS, ExpressJS**
 
 - 💬 Ask me about **python, HTML5, CSS3**
 
