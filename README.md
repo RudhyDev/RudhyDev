@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
-- 🔭 **I just finished my second BLUE EdTech Module and now startind my Full Stack specialization with JavaScript**
+- 🔭 **Currently on a Full Stack specialization with JavaScript**
 
 - 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), NodeJS, ReactJS, MongoDB, PostgreSQL, NestJS, ExpressJS**
 
