@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), NodeJS, ReactJS, MongoDB, PostgreSQL, NestJS, ExpressJS**
 
-- 💬 Ask me about **python, HTML5, CSS3**
-
 - 📫 How to reach me **rudhy.pereira@gmail.com**
 
 - ⚡ Fun fact: **one year to completely transition my career**
