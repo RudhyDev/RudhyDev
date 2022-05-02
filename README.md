@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudhy Maycon Pereira da Costa</h1>
-<h3 align="center">Civil engineer from Brazil (Curitiba-PR) diving into the world of technology</h3>
+<h3 align="center">Former civil engineer from Brazil (Curitiba-PR), now Back-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhydev&label=Profile%20views&color=0e75b6&style=flat" alt="rudhydev" /> </p>
 
