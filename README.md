@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
-- 🔭 **I'm doing a specialization course in FullStack Web Development with JavaScript**
 
 - 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), NodeJS, ReactJS, MongoDB, PostgreSQL, NestJS, ExpressJS**
 
 - 📫 How to reach me **rudhy.pereira@gmail.com**
 
 - ⚡ Fun fact: **one year to completely transition my career**
+  - PS. I got it!! 🕺
 
 
 
