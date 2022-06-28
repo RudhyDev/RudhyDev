@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python, HTML5, CSS3, JavaScript (ECMAScrip 6+), NodeJS, ReactJS, MongoDB, PostgreSQL, NestJS, ExpressJS**
+- 🌱 I’m currently learning **Clean Archtecture, TDD and DDD, microservices**
 
 - 📫 How to reach me **rudhy.pereira@gmail.com**
 
@@ -23,7 +23,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
@@ -37,9 +36,9 @@
 
 
 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rudhydev/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudhycosta)[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rudhy.pereira@gmail.com)
+[ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudhycosta)[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rudhy.pereira@gmail.com)
 
-![Snake animation](https://github.com/RudhyDev/RudhyDev/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
