@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudhydev&label=Profile%20views&color=0e75b6&style=flat" alt="rudhydev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudhydev" alt="rudhydev" /></a> </p>
 
 
 - 🌱 I’m currently learning **Clean Archtecture, TDD and DDD, microservices**
