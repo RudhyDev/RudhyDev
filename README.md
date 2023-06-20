@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there! My name is Rudhy Maycon Pereira da Costa and I am a passionate full-stack developer from Brazil.<br><br>I am currently learning Test-Driven Development (TDD), microservices, and Rust. While I am not yet proficient in these technologies, I am excited to continue learning and improving my skills.<br><br>I have experience with a wide range of technologies, including JavaScript/TypeScript, Node.js, Express.js, Vue.js, Quasar, and React.js. While I am not an expert in all of these technologies, I have had exposure to them and am familiar with their capabilities and limitations.
+
+Hi there! My name is Rudhy Maycon Pereira da Costa, and I'm a passionate full-stack developer from Brazil.<br><br>
+I'm currently learning Test-Driven Development (TDD), microservices, and Rust. While I'm not yet proficient in these technologies, I'm eager to continue expanding my knowledge and improving my skills.<br><br>
+I have experience with a wide range of technologies, including JavaScript/TypeScript, Node.js, Express.js, Vue.js, Quasar, and React.js. Although I'm not an expert in all of these areas, I have had exposure to them and am familiar with their capabilities and limitations.
 
 
 ## 🌐 Socials:
